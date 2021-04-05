@@ -29,4 +29,13 @@
 -   Αν είναι κάποιος φίλος ή γνωστός μπροστά
 -   Προς ποια κατεύθυνση πηγαίνει (Βορράς, Νότος, Ανατολή, Δύση)
 -   Αν υπάρχουν φώτα μπροστά ή σκοτάδι
+
+## Λίστα υλικών
+-   [Microbit V2](https://grobotronics.com/bbc-micro-bit-v2-boardretail.html) – κόστος 19 ευρώ
+-   [HuskyLens AI Camera for Microbit](https://www.hellasdigital.gr/electronics/sensors/gravity-huskylens-an-easy-to-use-ai-machine-vision-sensor/) – κόστος 56 ευρώ
+-   [Edge Breakout for BBC micro:bit](https://grobotronics.com/edge-breakout-for-bbc-micro-bit.html) – κόστος 11 ευρώ
+-   [Αισθητήρας απόστασης υπερήχων](https://grobotronics.com/ultrasonic-sensor-sr04.html) – κόστος 2 ευρώ
+-   [Μπαταριοθήκη 2xAAA - με JST PH no Cover](https://grobotronics.com/battery-holder-2xaaa-with-jst-ph-no-cover.html) - κόστος 1 ευρώ
+-   [PLA Fillament 1KG](https://grobotronics.com/3d-printer-filament-devil-pla-1.75mm-pink-1kg.html) – κόστος 22 ευρώ
+Συνολικό κόστος: 125 ευρώ
 ![enter image description here](https://ppf.edu.gr/hackers/wp-content/uploads/2021/03/blind-stick-ai.png)
