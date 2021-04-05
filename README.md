@@ -37,5 +37,6 @@
 -   [Αισθητήρας απόστασης υπερήχων](https://grobotronics.com/ultrasonic-sensor-sr04.html) – κόστος 2 ευρώ
 -   [Μπαταριοθήκη 2xAAA - με JST PH no Cover](https://grobotronics.com/battery-holder-2xaaa-with-jst-ph-no-cover.html) - κόστος 1 ευρώ
 -   [PLA Fillament 1KG](https://grobotronics.com/3d-printer-filament-devil-pla-1.75mm-pink-1kg.html) – κόστος 22 ευρώ
-Συνολικό κόστος: 125 ευρώ
+
+Συνολικό κόστος: 111 ευρώ
 ![enter image description here](https://ppf.edu.gr/hackers/wp-content/uploads/2021/03/blind-stick-ai.png)
